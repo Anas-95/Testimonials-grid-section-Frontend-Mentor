@@ -143,11 +143,6 @@ h3{
     text-align: center;
     padding: 20px;
     font-size: 1em;
-    color: var(--dark-grayish-blue);
     margin-top: auto; 
 }
 
-.attribution a {
-    color: var(--moderate-violet);
-    text-decoration: none;
-}
